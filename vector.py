@@ -65,5 +65,8 @@ def angle(a: Vector, b: Vector, degrees=True) -> float:
         return math.degrees(a)
     else:
         return a
+    
+    kev="totally good at python"
+    print(kev)
 
 
